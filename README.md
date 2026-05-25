@@ -20,7 +20,6 @@ The generated random bitstream is transmitted to a computer for:
 # 📷 Project Preview
 <img width="1688" height="2252" alt="20260510_175829(1) jpg" src="https://github.com/user-attachments/assets/33657007-f73a-4865-af65-cc6952a5aa58" />
 
-![Project Banner](assets/project_banner_placeholder.png)
 
 > Replace this with a clean image of your final setup or project render.
 
@@ -83,13 +82,17 @@ The generated random bitstream is transmitted to a computer for:
 
 ## 2️⃣ Random Bit Matrix
 
-![Bit Matrix](assets/bit_matrix_placeholder.png)
+<img width="1373" height="917" alt="bit matrix" src="https://github.com/user-attachments/assets/7eaa071d-828b-46c3-9acf-86ad920070b9" />
+
 
 ---
 
 ## 3️⃣ Scatter Plot / Star Map
 
-![Scatter Plot](assets/scatter_plot_placeholder.png)
+<img width="1920" height="1080" alt="star map" src="https://github.com/user-attachments/assets/de0d4d8b-a868-4c67-a3a9-b4ff58c0b1d7" />
+
+
+
 
 ---
 
