@@ -62,7 +62,8 @@ The generated random bitstream is transmitted to a computer for:
 
 ## Breadboard Prototype
 
-![Breadboard Setup](assets/breadboard_placeholder.jpg)
+<img width="2412" height="5702" alt="20260510_182647~2 jpg" src="https://github.com/user-attachments/assets/efdbc24e-190f-4068-8be7-b15e5dc4b1d5" />
+
 
 ---
 
@@ -98,7 +99,8 @@ The generated random bitstream is transmitted to a computer for:
 
 ## 4️⃣ Serial Plotter Output
 
-![Serial Plotter](assets/serial_plotter_placeholder.png)
+<img width="1511" height="370" alt="plotter" src="https://github.com/user-attachments/assets/5db46b6f-87db-41e9-a51b-f8ee8edd4581" />
+
 
 ---
 
