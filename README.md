@@ -132,6 +132,14 @@ The generated random bitstream is transmitted to a computer for:
 ```bash
 Quantum-Random-Number-Generator/
 │
-
+└──Hardware Photos┐
+│                 └── Final_look.jpeg
+│                 └── Components_req.jpeg
 │
+└──Esp32_tuning.ino
+│
+└──Python scripts for analysis plots┐
+│                                   └── tuning.py
+│                                   └── bit_matrix.py
+│                                   └── scatter_plotter.py                               
 └── README.md
