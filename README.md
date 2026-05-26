@@ -69,7 +69,8 @@ The generated random bitstream is transmitted to a computer for:
 
 ## Final Hardware Assembly
 
-![Final Hardware](assets/final_hardware_placeholder.jpg)
+<img width="3000" height="2079" alt="circuit_image" src="https://github.com/user-attachments/assets/7fd8de52-9a08-4279-87d6-c5713a338b36" />
+
 
 ---
 
@@ -77,7 +78,8 @@ The generated random bitstream is transmitted to a computer for:
 
 ## 1️⃣ Real-Time Bitstream
 
-![Bitstream Plot](assets/bitstream_plot_placeholder.png)
+<img width="733" height="570" alt="bitstream" src="https://github.com/user-attachments/assets/b93a80e3-66b9-499c-bd74-d5becc2ed173" />
+
 
 ---
 
@@ -130,23 +132,6 @@ The generated random bitstream is transmitted to a computer for:
 ```bash
 Quantum-Random-Number-Generator/
 │
-├── Arduino_Code/
-│   └── qrng_esp32.ino
-│
-├── Python/
-│   └── realtime_visualizer.py
-│
-├── MATLAB/
-│   └── qrng_analysis.m
-│
-├── assets/
-│   ├── project_banner_placeholder.png
-│   ├── circuit_diagram_placeholder.png
-│   ├── breadboard_placeholder.jpg
-│   ├── final_hardware_placeholder.jpg
-│   ├── bitstream_plot_placeholder.png
-│   ├── bit_matrix_placeholder.png
-│   ├── scatter_plot_placeholder.png
-│   └── serial_plotter_placeholder.png
+
 │
 └── README.md
